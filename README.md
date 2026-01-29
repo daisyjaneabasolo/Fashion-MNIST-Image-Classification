@@ -25,5 +25,5 @@
 -   We can make the model better by adding more layers, training it for more epochs, using convolutional layers, or changing some settings like the learning rate.
 
 
-[This is my Google Colab](https://colab.research.google.com/drive/10D-XRqZ4Ny3eRpGz96sdYGiKrnnbmQVN?usp=sharing)
+This is my Google Colab (https://colab.research.google.com/drive/10D-XRqZ4Ny3eRpGz96sdYGiKrnnbmQVN?usp=sharing)
 
