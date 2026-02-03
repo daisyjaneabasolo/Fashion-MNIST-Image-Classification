@@ -2,7 +2,7 @@
 
 #1. What is the Fashion MNIST dataset? 
 
- - Fashion MNIST is a set of 70,000 black-and-white images of clothes that we can use to train and test a model to recognize different clothing items.
+ - Fashion MNIST is a black-and-white images of clothes that we can use to train and test a model to recognize different clothing items.
 
 #2. Why do we normalize image pixel values before training?
 
